@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\bin\Debug\net8.0\quan_ly_san_pham.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\bin\Debug\net8.0\quan_ly_san_pham.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\bin\Debug\net8.0\quan_ly_san_pham.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\bin\Debug\net8.0\quan_ly_san_pham.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\bin\Debug\net8.0\quan_ly_san_pham.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\refint\quan_ly_san_pham.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\quan_ly_san_pham.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\quan_ly_san_pham\obj\Debug\net8.0\ref\quan_ly_san_pham.dll

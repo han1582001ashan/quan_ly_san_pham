@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quan_ly_san_pham/1.0.0": {
+        "runtime": {
+          "quan_ly_san_pham.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quan_ly_san_pham/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
